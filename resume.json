@@ -1,0 +1,38 @@
+{
+	"basics": {
+		"name": "Punit kumar",
+		"label": "Student",
+		"email": "2020KUCP1101@iiitkota.ac.in",
+		"location": {
+			"address": "v.p.o. rampur teh. bansur dist alwar(rajasthan)",
+			"postalCode": "301416",
+			"city": "Alwar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/Punit1101/"
+			},
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket"]
+	}],
+}
