@@ -1,38 +1,46 @@
 {
 	"basics": {
-		"name": "Punit kumar",
+		"name": "Punit Kumar",
 		"label": "Student",
-		"email": "2020KUCP1101@iiitkota.ac.in",
+		"email": "2020kucp1101@iiitkota.ac.in",
+		"phone": "8058524051",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
-			"address": "v.p.o. rampur teh. bansur dist alwar(rajasthan)",
+			"address": "Rampur",
 			"postalCode": "301416",
 			"city": "Alwar",
-			"countryCode": "India",
+			"countryCode": " India",
 			"region": "Rajasthan"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/Punit1101/"
-			},
+				"username": "Punit1101",
+				"url": "https://www.github.com/Punit1101"
+			}
+
 		]
 	},
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2020-12-08",
+		"studyType": "Bachelor of Technology",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Cricket"]
+		"name": "Playing",
+		"keywords": [
+			"Cricket"
+		]
 	}],
+	"references": []
 }
